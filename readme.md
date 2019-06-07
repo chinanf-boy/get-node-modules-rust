@@ -20,10 +20,10 @@ see Result
 
 ```bash
 [ './node_modules' ]
-cost time: 0.043 ms
+cost time: 0.043 s
 ```
 
-- 3.5G ~ 2ms
+- 3.5G ~ 2s
 
 ### Build
 
