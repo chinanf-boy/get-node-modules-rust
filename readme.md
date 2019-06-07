@@ -52,4 +52,4 @@ var lib = ffi.Library(path.join(__dirname, './rust-dylib/libget_dir'), {
 
 ## Use by
 
-- [npm-modules-size ](https://github.com/chinanf-boy/npm-modules-size)
+- [node-modules-size ](https://github.com/chinanf-boy/node-modules-size)
