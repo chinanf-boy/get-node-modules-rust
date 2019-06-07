@@ -1,0 +1,26 @@
+{
+  "name": "get-node-modules-rust",
+  "version": "1.0.0",
+  "description": "fast search node_modules dir, power by Rust dylib",
+  "main": "index.js",
+  "dependencies": {
+    "ffi": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node cli-demo.js"
+  },
+  "keywords": [
+    "search",
+    "node_modules"
+  ],
+  "files": [
+    "rust-dylib",
+    "index.js",
+    "cli-demo.js"
+  ],
+  "author": "yobrave",
+  "email": "yobrave@outlook.com",
+  "license": "MIT"
+}
