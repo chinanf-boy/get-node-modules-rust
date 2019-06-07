@@ -1,6 +1,6 @@
 {
   "name": "get-node-modules-rust",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "fast search node_modules dir, power by Rust dylib",
   "main": "index.js",
   "dependencies": {
