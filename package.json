@@ -4,7 +4,7 @@
   "description": "fast search node_modules dir, power by Rust dylib",
   "main": "index.js",
   "dependencies": {
-    "ffi": "^2.3.0"
+    "ffi-napi": "^3.0.1"
   },
   "devDependencies": {},
   "scripts": {

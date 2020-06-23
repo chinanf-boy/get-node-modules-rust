@@ -1,4 +1,4 @@
-var ffi = require('ffi');
+var ffi = require('ffi-napi');
 var path = require('path');
 
 var lib = ffi.Library(path.join(__dirname, './rust-dylib/libget_dir'), {
